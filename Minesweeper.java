@@ -161,7 +161,7 @@ public class Minesweeper {
 
         if (tilesClicked == numRows * numCols - mineCount) {
             gameOver = true;
-            textLabel.setText("Saad says; You're a champ!");
+            textLabel.setText("Saad shouts; You're a champ!");
         }
     }
 
