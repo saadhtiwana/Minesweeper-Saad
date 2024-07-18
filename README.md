@@ -5,7 +5,7 @@ Introduction
 Welcome to Minesweeper-Saad! This is a simple version of the classic Minesweeper game, built using Java. Test your problem-solving skills by finding all the mines without triggering any.
 
 Features
-Left-click to reveal tiles.
+Left-click to reveal tiles of the board.
 Right-click to flag or unflag tiles.
 Automatically places mines.
 Displays the number of adjacent mines.
