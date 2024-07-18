@@ -44,7 +44,7 @@ public class Minesweeper {
         frame.setLayout(new BorderLayout());
 
         textLabel.setFont(new Font("Arial", Font.BOLD, 30));
-        textLabel.setText("Welcome To Saad's Minesweeper: " + mineCount);
+        textLabel.setText("Welcome To Minesweeper: " + mineCount);
         textLabel.setHorizontalAlignment(JLabel.CENTER);
         textLabel.setOpaque(true);
 
