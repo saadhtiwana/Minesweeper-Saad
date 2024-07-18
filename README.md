@@ -7,7 +7,7 @@ Welcome to Minesweeper-Saad! This is a simple version of the classic Minesweeper
 Features
 Left-click to reveal tiles of the board.
 Right-click to flag or unflag tiles.
-Automatically places mines.
+Automatically places mines on the tiles.
 Displays the number of adjacent mines.
 Winning and losing messages.
 
