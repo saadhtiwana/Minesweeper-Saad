@@ -23,7 +23,7 @@ public class Minesweeper {
     int boardWidth = numCols * tileSize;
     int boardHeight = numRows * tileSize;
 
-    JFrame frame = new JFrame("Saad's Minesweeper");
+    JFrame frame = new JFrame("Minesweeper");
     JLabel textLabel = new JLabel();
     JPanel textPanel = new JPanel();
     JPanel boardPanel = new JPanel();
